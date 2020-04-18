@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00F29H 00F2AH DISASM_TEXT        CODE
+ 00F30H 01280H 00351H _DATA              DATA
+ 01290H 0138FH 00100H STACK              STACK
+
+Program entry point at 0000:0000
+
